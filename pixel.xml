@@ -113,7 +113,7 @@ license:		creative commons CC-BY-NC-SA
 			<selectorColor>ffffff</selectorColor>
 			<selectedColor>bc14ff</selectedColor>
 			<primaryColor>ffffff</primaryColor>
-			<secondaryColor>871F78</secondaryColor>
+			<secondaryColor>ffffff</secondaryColor>
 			<forceUppercase>1</forceUppercase>
 			<!--<scrollSound>./art/flipper.wav</scrollSound>-->
 		</textlist>
@@ -173,7 +173,7 @@ license:		creative commons CC-BY-NC-SA
 			<selectorColor>ffffff</selectorColor>
 			<selectedColor>ffffff</selectedColor>
 			<primaryColor>ffffff</primaryColor>
-			<secondaryColor>871F78</secondaryColor>
+      <secondaryColor>ffffff</secondaryColor>
 			<forceUppercase>0</forceUppercase>
 			<!--<scrollSound>./art/flipper.wav</scrollSound>-->
 		</textlist>
